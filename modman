@@ -1,9 +1,7 @@
 skin/frontend/base/default/js/MOC/catalogdescexpand.js
 skin/frontend/base/default/css/MOC/catalogdescexpand.css
 js/jquery/jquery.expander.min.js
-app/design/base/default/layout/moc
-app/design/base/default/layout/moc/catalogdescexpand.xml
-app/design/default/default/layout/moc
-app/design/default/default/layout/moc/catalogdescexpand.xml
+app/design/base/default/layout/catalogdescexpand.xml
+app/design/default/default/layout/catalogdescexpand.xml
 app/code/community/MOC/CatalogDescExpand/etc/config.xml
 app/etc/modules/MOC_CatalogDescExpand.xml

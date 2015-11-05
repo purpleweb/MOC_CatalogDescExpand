@@ -20,7 +20,7 @@
         <layout>
             <updates>
                 <catalogdescexpand module="MOC_CatalogDescExpand">
-                    <file>moc/catalogdescexpand.xml</file>
+                    <file>catalogdescexpand.xml</file>
                 </catalogdescexpand>
             </updates>
         </layout>
