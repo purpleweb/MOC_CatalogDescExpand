@@ -7,6 +7,16 @@
     </modules>
 
     <frontend>
+        <routers>
+            <catalogdescexpand>
+                <use>standard</use>
+                <args>
+                    <module>MOC_CatalogDescExpand</module>
+                    <frontName>catalogdescexpand</frontName>
+                </args>
+            </catalogdescexpand>
+        </routers>
+
         <layout>
             <updates>
                 <catalogdescexpand>
