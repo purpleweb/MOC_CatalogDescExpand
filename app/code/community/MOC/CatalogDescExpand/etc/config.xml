@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MOC_CatalogDescExpand>
+            <version>0.0.1</version>
+        </MOC_CatalogDescExpand>
+    </modules>
+
+    <frontend>
+        <layout>
+            <updates>
+                <catalogdescexpand>
+                    <file>moc/catalogdescexpand.xml</file>
+                </catalogdescexpand>
+            </updates>
+        </layout>
+    </frontend>
+
+</config>

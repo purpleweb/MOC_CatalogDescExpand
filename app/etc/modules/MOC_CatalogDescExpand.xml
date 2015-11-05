@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MOC_CatalogDescExpand>
+            <codePool>community</codePool>
+            <active>true</active>
+        </MOC_CatalogDescExpand>
+    </modules>
+</config>
