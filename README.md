@@ -6,6 +6,28 @@ This plugin add expander to category description for Magento
 Warning: it's a french version
 Todo: Add translations
 
+Usage
+-----
+
+```html
+<div>
+<h1>My title</h1>
+
+<div class="expandable">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae risus volutpat, hendrerit risus sit amet, faucibus velit. Sed ligula urna, maximus ut molestie eu, tempus a tellus. Duis tincidunt, erat a euismod commodo, neque est imperdiet elit, sed posuere tellus mauris ac neque. Curabitur dapibus, nisi et rhoncus condimentum, augue metus porttitor nunc, quis fermentum risus felis feugiat enim.
+
+<span class="read-more">&hellip; <a href="#">Read more</a></span>
+
+<span class="details"><br />
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae risus volutpat, hendrerit risus sit amet, faucibus velit. Sed ligula urna, maximus ut molestie eu, tempus a tellus. Duis tincidunt, erat a euismod commodo, neque est imperdiet elit, sed posuere tellus mauris ac neque. Curabitur dapibus, nisi et rhoncus condimentum, augue metus porttitor nunc, quis fermentum risus felis feugiat enim. Quisque gravida mauris augue, in placerat augue elementum vel. Aenean malesuada eleifend posuere. Vestibulum id ex felis. Vestibulum laoreet justo non elit rutrum consequat. Nullam interdum sagittis leo, ac rhoncus leo mattis non. Cras pellentesque, tellus sit amet maximus tempor, purus enim varius felis, sit amet pretium nibh turpis a tortor. Nunc a porttitor magna. Proin quis lectus sit amet est sollicitudin malesuada. Mauris egestas sit amet lacus nec elementum. Aliquam pulvinar nunc quis arcu convallis ultrices.
+
+</span>
+</div>
+</div>
+```
+
 Install via Modman
 ----------------
 
