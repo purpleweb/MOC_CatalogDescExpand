@@ -1,5 +1,5 @@
-README
-================
+Category description expandable
+===============================
 
 This plugin add expander to category description for Magento
 
