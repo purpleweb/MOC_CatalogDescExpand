@@ -20,3 +20,14 @@ You can update the module with this command
 ```bash
 $ modman update MOC_CatalogDescExpand
 ```
+
+Require
+-------
+
+jquery
+
+Include
+-------
+
+This module use jquery-expander from kswedberg
+https://github.com/kswedberg/jquery-expander
