@@ -3,6 +3,9 @@ README
 
 This plugin add expander to category description for Magento
 
+Warning: it's a french version
+Todo: Add translations
+
 Install via Modman
 ----------------
 
